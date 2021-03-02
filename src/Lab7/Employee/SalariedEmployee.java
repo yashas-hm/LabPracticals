@@ -26,7 +26,7 @@ public class SalariedEmployee extends Employee {
     }
 
     public double increment() {
-        return (salary + (salary * 0.1));
+        return (salary + (salary * 0.01));
     }
 
     public double getSalary() {
