@@ -4,7 +4,7 @@ package Lab11;
 
 import java.util.*;
 
-public class Lab12_1 {
+public class Lab11_1 {
     public static void main(String[] args) {
         Stack<Integer> stack = new Stack<>();
         Vector<Integer> vector = new Vector<>();
