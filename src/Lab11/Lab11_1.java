@@ -1,7 +1,5 @@
 package Lab11;
 
-//Write the program that demonstrate the use of Stack, Vector and ArrayList classes
-
 import java.util.*;
 
 public class Lab11_1 {
