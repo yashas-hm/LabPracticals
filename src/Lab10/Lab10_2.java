@@ -16,7 +16,7 @@ public class Lab10_2 {
             output = new FileWriter(fileName);
 
             for(int i=0;i<random.nextInt(100-9);i++){
-                output.write(random.nextInt());
+                output.write(random.nextInt(100));
             }
 
             output.close();
